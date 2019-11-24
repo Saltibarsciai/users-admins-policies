@@ -1,5 +1,10 @@
 ## Simple todo application with admin and users
 
+### admin credentials:
+
+email: admin@admin.com
+
+pass: password
 
 ## Prerequisites:
 
