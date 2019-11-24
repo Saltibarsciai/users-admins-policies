@@ -1,5 +1,6 @@
 vendor/
 node_modules/
+storage-db/
 npm-debug.log
 
 # Laravel 4 specific
