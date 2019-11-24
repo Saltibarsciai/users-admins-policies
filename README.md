@@ -1,12 +1,15 @@
-####Simple todo application with admin and users
-#Prerequisites:
+##Simple todo application with admin and users
+
+
+#P#rerequisites:
+
 Docker 
 
 or
  
  PHP 7.1, MySQL client (xampp), Composer,
  
-#installation
+##installation
 
 ```
 cd server
@@ -57,5 +60,5 @@ php artisan key:generate
 ```$xslt
 php artisan migrate --seed
 ```
-#Done
+##Done
 http://localhost/8081
