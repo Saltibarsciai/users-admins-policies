@@ -20,7 +20,7 @@ composer install
 ```
 
 ```$xslt
-cp .example.env .env (fix connection to mysql)
+cp .env.example .env (fix connection to mysql)
 ```
 
 ```$xslt
@@ -50,7 +50,7 @@ composer install
 ```
 
 ```$xslt
-cp .example.env .env
+cp .env.example .env
 ```
 
 ```$xslt
